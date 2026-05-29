@@ -8,7 +8,7 @@ import { site } from './content'
 
 function Hero() {
   return (
-    <section className="border-b border-black/5 bg-white px-6 py-16 md:py-24">
+    <section className="border-b border-black/5 bg-tan px-6 py-16 md:py-24">
       <div className="mx-auto max-w-6xl text-center md:text-left">
         {/* <p className="text-sm font-medium tracking-wide text-black/50 uppercase">
           Welcome
